@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🚀+Java+Developer;💻+Full+Stack+Enthusiast;🔗+API+Builder;🎯+DSA+Lover;🌟+Passionate+about+building+real-world+projects)](https://git.io/typing-svg)
 
 ---
-
 ## 🛠️ Tech Stack  
 - *Languages:* Java, C++, JavaScript, Python (Basics)  
 - *Web:* Next.js, React.js, HTML, CSS  
@@ -57,7 +56,7 @@
 
 ## 👀 Profile Visitors  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Dipk2003&label=Profile%20Views&color=blue&style=flat)  
+![Visitor Count](https://komarev.com/ghpvc/?username=adityapandey9882&label=Profile%20Views&color=blue&style=flat)  
 
 ---
 
